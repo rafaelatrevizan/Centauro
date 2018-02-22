@@ -9,4 +9,4 @@ Para fazer um cadastro
 Cenario: Entrar na home
 Dado que esteja na pagina inicial da Centauro
 Quando clicar para fazer novo cadastro
-Então apresentará tela para validar se sou novo usuário
+Então faço um novo cadastro

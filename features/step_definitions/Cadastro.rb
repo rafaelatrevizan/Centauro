@@ -5,9 +5,11 @@ Dado("que esteja na pagina inicial da Centauro") do
 end
 
 Quando("clicar para fazer novo cadastro") do
-   $loginCentauro.mouseOverMenu
+   $loginCentauro.Cadastrar
 end
 
-Então("apresentará tela para validar se sou novo usuário") do
-    $loginCentauro.cadastrar
+Então("faço um novo cadastro") do
+    binding.pry
+    should have_xpath('//h1[contains(text(), "Você já possui cadastro")]')
+    $loginCentauro.radioButtonNovoCadastro.set
 end
