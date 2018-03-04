@@ -8,6 +8,8 @@ require 'capybara/cucumber'
 require 'pry'
 require 'site_prism'
 require 'rspec/expectations'
+require 'cpf_faker'
+
 World(PageObject::PageFactory)
 
 Capybara.register_driver :selenium do |app|

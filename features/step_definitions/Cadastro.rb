@@ -9,7 +9,6 @@ Quando("clicar para fazer novo cadastro") do
 end
 
 Então("faço um novo cadastro") do
-    binding.pry
-    should have_xpath('//h1[contains(text(), "Você já possui cadastro")]')
-    $loginCentauro.radioButtonNovoCadastro.set
+    $loginCentauro.preenchimentoUm
+    $loginCentauro.preenchimentoDois
 end
