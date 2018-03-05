@@ -11,4 +11,5 @@ end
 Então("faço um novo cadastro") do
     $loginCentauro.preenchimentoUm
     $loginCentauro.preenchimentoDois
+    $loginCentauro.cadastroFeito
 end

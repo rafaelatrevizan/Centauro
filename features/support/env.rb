@@ -14,7 +14,7 @@ World(PageObject::PageFactory)
 
 Capybara.register_driver :selenium do |app|
     client = Selenium::WebDriver::Remote::Http::Default.new
-    client.read_timeout = 120
+    client.read_timeout = 60
     caps = Selenium::WebDriver::Remote::Capabilities.chrome("chromeOptions" => 
                                                    {"args" => [ "start-maximized",
                                                                   "--no-sandbox",

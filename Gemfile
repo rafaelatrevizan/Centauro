@@ -9,3 +9,6 @@ gem 'selenium-webdriver'
 gem 'capybara'
 gem 'site_prism'
 gem 'faker'
+gem "cpf_cnpj"
+gem 'faker-fakeme'
+
