@@ -30,24 +30,32 @@ class CadastroPage < SitePrism::Page
     end
 
     def Cadastrar
-    entrar.click
+    binding.pry
+    entrar.houver
     assert_text("Você já possui cadastro")
     end
 
     def preenchimentoUm
+        cpf.set(Faker::CPF.number) 
         radioButtonNovoCadastro.click
-        cpf.set(Faker::CPF.number)
-        cep.set(Faker::Address.postcode)
-        binding.pry
-        btnCadastrar.click
+        cep.click  
+        # @cepCadastro =  Faker::Address.zip_code
+        cep.set('03335070')    
+        # cep.set(Faker::Address.zip_code)  
+        # puts @cepCadastro    
+        btnCadastrar.click  
+          
+      
     end
  
-    def preenchimentoDois        
+    def preenchimentoDois  
+        
         find('#tab1-nregister')
-        nome.set(Faker::Name.first_name )
+        @nomeCadastro = Faker::Name.first_name 
+        nome.set(@nomeCadastro)
         sobreNome.set(Faker::Name.last_name )
         rg.set('403888736')
-        data.set('18101992')
+        data.set('018101992')
         sexo.click
         ddd.set('11')
         numero.set('43424242')
@@ -64,8 +72,12 @@ class CadastroPage < SitePrism::Page
     end
 
     def cadastroFeito
-        if cadastroSucesso == nome
+        # assert_text('Olá' + cadastroSucesso)
+        @cadastroSucesso2 = cadastroSucesso.text
+        if (@cadastroSucesso2 == @nomeCadastro)
            puts "Cadastro com Sucesso"
+        else
+            fail
         end
     end
  
