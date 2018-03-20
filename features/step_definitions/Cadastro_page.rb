@@ -30,8 +30,7 @@ class CadastroPage < SitePrism::Page
     end
 
     def Cadastrar
-    binding.pry
-    entrar.houver
+    entrar.click
     assert_text("Você já possui cadastro")
     end
 
@@ -72,7 +71,7 @@ class CadastroPage < SitePrism::Page
     end
 
     def cadastroFeito
-        # assert_text('Olá' + cadastroSucesso)
+       
         @cadastroSucesso2 = cadastroSucesso.text
         if (@cadastroSucesso2 == @nomeCadastro)
            puts "Cadastro com Sucesso"

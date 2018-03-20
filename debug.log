@@ -245,3 +245,125 @@
 [0306/161729.315:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
 [0306/161729.315:ERROR:exception_snapshot_win.cc(88)] thread ID 5156 not found in process
 [0306/161729.315:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0312/120340.204:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0312/141859.115:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0312/142421.251:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0312/143958.417:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0312/143958.418:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0312/143958.418:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0312/143958.418:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0312/143958.418:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0312/143958.432:ERROR:exception_snapshot_win.cc(88)] thread ID 7476 not found in process
+[0312/143958.432:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0312/150859.858:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0312/150859.858:ERROR:exception_snapshot_win.cc(88)] thread ID 9756 not found in process
+[0312/150859.858:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0312/151321.762:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0312/151321.763:ERROR:exception_snapshot_win.cc(88)] thread ID 8556 not found in process
+[0312/151321.763:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0312/151636.719:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0312/151636.720:ERROR:exception_snapshot_win.cc(88)] thread ID 2428 not found in process
+[0312/151636.720:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0312/152120.995:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0312/152121.010:ERROR:exception_snapshot_win.cc(88)] thread ID 4692 not found in process
+[0312/152121.010:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0312/153122.713:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0312/153122.714:ERROR:exception_snapshot_win.cc(88)] thread ID 7864 not found in process
+[0312/153122.714:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0312/153409.348:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0312/153409.349:ERROR:exception_snapshot_win.cc(88)] thread ID 13088 not found in process
+[0312/153409.349:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0312/154611.332:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0312/155231.192:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0312/155404.601:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0312/160232.614:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0312/160232.614:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0312/160232.614:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0312/160232.614:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0312/160232.614:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0312/160232.614:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0312/160232.614:ERROR:exception_snapshot_win.cc(88)] thread ID 13596 not found in process
+[0312/160232.614:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0312/162023.834:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0312/171737.619:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0312/172850.636:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0312/172850.639:ERROR:exception_snapshot_win.cc(88)] thread ID 8844 not found in process
+[0312/172850.639:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0312/172942.191:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0312/172942.194:ERROR:exception_snapshot_win.cc(88)] thread ID 16160 not found in process
+[0312/172942.194:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0312/173758.419:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0312/173758.420:ERROR:exception_snapshot_win.cc(88)] thread ID 14132 not found in process
+[0312/173758.420:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0312/174854.359:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0312/175026.153:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0312/175131.019:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0312/175131.020:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0312/175131.020:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0312/175131.020:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0312/175131.020:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0312/175131.020:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0312/175131.020:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0312/175131.020:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0312/175131.020:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0312/175131.020:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0312/175131.020:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0312/175131.020:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0312/175131.020:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0312/175131.020:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0312/175131.020:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0312/175131.020:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0312/175131.020:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0312/175131.020:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0312/175131.020:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0312/175131.020:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0312/175131.021:ERROR:exception_snapshot_win.cc(88)] thread ID 11764 not found in process
+[0312/175131.021:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0312/175131.076:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0312/175131.076:ERROR:exception_snapshot_win.cc(88)] thread ID 9556 not found in process
+[0312/175131.076:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0313/094443.306:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0313/170357.645:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0313/170357.646:ERROR:exception_snapshot_win.cc(88)] thread ID 12556 not found in process
+[0313/170357.646:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0313/170357.680:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0313/170357.681:ERROR:exception_snapshot_win.cc(88)] thread ID 11992 not found in process
+[0313/170357.681:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0313/170629.625:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0313/170629.626:ERROR:exception_snapshot_win.cc(88)] thread ID 4472 not found in process
+[0313/170629.626:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0313/170904.448:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0313/170904.450:ERROR:exception_snapshot_win.cc(88)] thread ID 2124 not found in process
+[0313/170904.450:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0313/171229.521:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0313/171229.522:ERROR:exception_snapshot_win.cc(88)] thread ID 7624 not found in process
+[0313/171229.522:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0313/171734.444:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0313/171734.445:ERROR:exception_snapshot_win.cc(88)] thread ID 11832 not found in process
+[0313/171734.445:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0314/174056.546:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0314/174056.570:ERROR:exception_snapshot_win.cc(88)] thread ID 10676 not found in process
+[0314/174056.570:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0315/105158.867:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0315/113810.431:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0315/113810.433:ERROR:exception_snapshot_win.cc(88)] thread ID 14600 not found in process
+[0315/113810.433:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0319/100601.483:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0319/100601.492:ERROR:exception_snapshot_win.cc(88)] thread ID 11980 not found in process
+[0319/100601.492:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0319/101611.003:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0319/114948.437:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0319/121855.698:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0319/121855.699:ERROR:exception_snapshot_win.cc(88)] thread ID 1284 not found in process
+[0319/121855.699:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0319/131747.439:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0319/132417.702:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0319/132852.419:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0319/133827.772:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0319/134047.780:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0319/144338.274:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0319/150308.004:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0320/100507.120:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0320/100742.345:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0320/101609.106:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0320/110940.157:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
