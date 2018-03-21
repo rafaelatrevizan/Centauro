@@ -8,14 +8,14 @@ Quando("clicar para fazer novo cadastro") do
    $loginCentauro.Cadastrar
 end
 
-Então("faço um novo cadastro") do
+Então("um usuário é cadastrado") do
     $loginCentauro.preenchimentoUm
     $loginCentauro.preenchimentoDois
     $loginCentauro.cadastroFeito
 end
 
 
-Quando("escolher um produto") do
+Quando("adicionar um produto") do
     $fazerCompra = ComprasPage.new
     $fazerCompra.adicionarCompra
     $fazerCompra.colocarPosicao(1)

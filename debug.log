@@ -367,3 +367,9 @@
 [0320/100742.345:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
 [0320/101609.106:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
 [0320/110940.157:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0321/123735.344:ERROR:file_io_win.cc(161)] CreateFile C:\Users\RAFAEL~1\AppData\Local\Temp\scoped_dir12976_30019\Crashpad\settings.dat: O sistema não pode encontrar o caminho especificado. (0x3)
+[0321/123735.875:ERROR:file_io_win.cc(170)] CreateFile C:\Users\RAFAEL~1\AppData\Local\Temp\scoped_dir12976_30019\Crashpad\reports\076ae744-fe2f-47b0-a27a-01cb5bd682c0.dmp: O sistema não pode encontrar o caminho especificado. (0x3)
+[0321/123735.875:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0321/145837.836:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0321/145837.851:ERROR:exception_snapshot_win.cc(88)] thread ID 5812 not found in process
+[0321/145837.851:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
