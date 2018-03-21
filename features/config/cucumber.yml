@@ -1,3 +1,3 @@
 default: --no-source --color --format pretty
 
-geral: --t @cadastro,@carrinho --f html --o Centauro.html
+# geral: --tags @cadastro,@carrinho --format html --out=Centauro.html
