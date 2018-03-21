@@ -373,3 +373,4 @@
 [0321/145837.836:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
 [0321/145837.851:ERROR:exception_snapshot_win.cc(88)] thread ID 5812 not found in process
 [0321/145837.851:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0321/154414.424:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
